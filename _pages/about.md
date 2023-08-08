@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Ehsan (pronounced /eh☀️/ or /ih☀️/, or even /e☀️/).
+<!-- My name is Ehsan (pronounced /eh☀️/ or /ih☀️/, or even /e☀️/).
 I am a Post-doctoral Fellow at the David R. Cheriton School of Computer Science, University of Waterloo, hosted by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/).
 I am broadly interested in the intersection of natural language processing and information retrieval.
 My goal is to facilitate information access over massive unstructured materials via:
@@ -23,5 +23,7 @@ My goal is to facilitate information access over massive unstructured materials 
 
 Previously, I completed my PhD at the University of Alberta, advised by [Davood Rafiei](https://cs.ualberta.ca/~drafiei/). 
 I was also fortunate enough to collaborate with [Charles Clarke](https://plg.uwaterloo.ca/~claclark/).
-I also interned as a researcher at Huawei Noah's Ark Lab in Montreal and worked with [Mehdi Rezagholizadeh](https://ca.linkedin.com/in/mehdi-rezagholizadeh-61212346), [Peyman Passban](https://ca.linkedin.com/in/passban), and [Ali Ghodsi](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/ali-ghodsi).
-Prior to PhD, I was working as a software engineer.
+I also interned as a researcher at Huawei Noah's Ark Lab in Montreal and worked with [Mehdi Rezagholizadeh](https://ca.linkedin.com/in/mehdi-rezagholizadeh-61212346), [Peyman Passban](https://ca.linkedin.com/in/passban), and [Ali Ghodsi](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/ali-ghodsi). -->
+<!-- Prior to PhD, I was working as a software engineer. -->
+
+My name is Ali. I am a MSc. student at the Computing Science Department of University of Ali, and I am working under the supervision of [Prof. Davood Rafiei](https://webdocs.cs.ualberta.ca/~drafiei/). I am working on e-commerce product entity matching by leveraging LLMs and tabular data. I am very interested in Natural Language Processing (NLP), Information Retrieval (IR), and Question Answering (QA).
