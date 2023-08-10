@@ -112,6 +112,11 @@
 - title: 🏆 Honors and Awards
   type: time_table
   contents:
+    - title:  Received conference travel award 
+      institution: <a href="https://collisionconf.com/blog/collision-2023-news-tickets-updates?utm_source=google&utm_medium=cpc&utm_campaign=20321682140&utm_content=154319578761&utm_term=&gclid=CjwKCAjw8symBhAqEiwAaTA__EfrnnY_zUf2RiUrh-CiEX7sLAVmC-EX8CivLUdpf-jfq_RXyp6cVRoCHvMQAvD_BwE"> Collision 2023 Tech Conference</a>, Toronto, Canada.
+      year: 2023
+
+
     - title:  Awarded Alberta Innovates Graduate Student Scholarship, AIGSS, (26,000 CAD) 
       institution: <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/scholarships/ab-innovates/aigss-data-enabled-innovation.html"> Alberta Innovates</a>, Edmonton, Canada.
       year: 2022
@@ -138,7 +143,7 @@
 
 
 
-- title: <html>&#127958</html>Other Interests
+- title: Other Interests
   type: nested_list
   contents:
     - title: Sports
