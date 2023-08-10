@@ -1,10 +1,7 @@
 ---
 layout: post
-date: 2022-08-01
+date: 2023-08-8
 inline: true
 ---
 
-Our work "Probing the Robustness of Pre-trained Language Models for Entity Matching" got accepted at CIKM 2022. [[Paper](https://doi.org/10.1145/3511808.3557673)] [[Code](https://github.com/makbn/robem)]
-
-
-
+Our paper "Product Entity Matching via Tabular Data" got accepted at [CIKM 2023](https://uobevents.eventsair.com/cikm2023/).

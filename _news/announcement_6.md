@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-09-08 07:59:00-0400
+date: 2020-5-10
 inline: true
 ---
 
-Started internship at Huawei Noah's Ark lab, Montreal with Mehdi Rezagholizadeh.
+Admitted into MSc. program at the [Computing Science Department](https://www.ualberta.ca/computing-science/about-the-department/index.html) of University of Alberta.

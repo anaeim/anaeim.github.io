@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-01-15 07:59:00-0400
+date: 2022-05-10
 inline: true
 ---
 
-Our work "Glitter :sparkles:" got accepted at ACL 2022 Findings. [[Paper](https://aclanthology.org/2022.findings-acl.84/)] [[Code](https://github.com/huawei-noah/KD-NLP/tree/main/Glitter)]
+Awarded prestigious Alberta Innovates Graduate Student Scholarships ([AIGSS](https://www.ualberta.ca/graduate-studies/awards-and-funding/scholarships/ab-innovates/aigss-data-enabled-innovation.html)) from [Alberta Innovates](https://albertainnovates.ca/).

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-02-08 07:59:00-0400
+date: 2020-08-30
 inline: true
 ---
 
-Our paper "Evaluating Coherence in Dialogue Systems using Entailment" got accepted at NAACL 2019. [[Paper](https://aclanthology.org/N19-1381/)] [[Code](https://github.com/nouhadziri/DialogEntailment)]
+Started my graduate studies at the [Computing Science Department](https://www.ualberta.ca/computing-science/about-the-department/index.html) of University of Alberta
