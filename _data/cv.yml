@@ -6,7 +6,7 @@
 #    - name: Languages
 #      value: English, Persian
 
-- title: Education
+- title: <html>&#127891</html>Education
   type: time_table
   contents:
     - title: MSc.
@@ -42,34 +42,34 @@
 
 
 
-- title: Professional Experience
+- title: 👨‍💼 Professional Experience
   type: time_table
   contents:
     - title: Research Assistant 
-      institution: AML/ATF department, ScotiaBank, Edmonton, Canada.
+      institution: <a href="https://www.scotiabank.com/ca/en/about.html">AML/ATF department, ScotiaBank</a>, Edmonton, Canada.
       year: 2021 - 2022
 #      description:
 #        - Explore information retrieval models suitable for NLP tasks.
     - title: Teacher Assistant
-      institution: <u>Search, knowledge, simulation course</u>, University of Alberta, Edmonton, Canada
+      institution: <a href="https://apps.ualberta.ca/catalogue/course/cmput/455">Search, knowledge, simulation course</a>, University of Alberta, Edmonton, Canada
       year: 2020 - 2021
 #      description:
 #        - Work on sample efficiency in NLP and multilignual retrieval.
 
     - title: AI Scientist
-      institution: Faroob Zaman Inc., Mashhad, Iran.
+      institution: <a href="https://www.linkedin.com/company/faroob-zaman-inc./">Faroob Zaman Inc.</a>, Mashhad, Iran.
       year: 2016 - 2020
 #      description:
 #        - Worked on sample efficiency and data augmentation in NLP.
 
 
 
-- title: Research Experience
+- title: 👨‍💻 Research Experience
   type: nested_list
   contents:
     - title: Research Projects
       items:
-        - E-commerce product matching model using Pre-trained Language Models (PLM) and tabular data<i>:</i> <u>TATEM</u>
+        - Enhanced e-commerce product matching model using Pre-trained Language Models (PLM) and tabular data<i>:</i> <u>TAbular and Textual Entity Matching (TATEM)</u> and <u>TAble & Text Entity Matching as TOpology COonstruction (TATTOO)</u>
         - Introduced two product entity matching datasets using complementary product-specific tabular data <i>:</i> <u>Amazon*-Google, Walmart*-Amazon*</u>
         - Fast and robust domain adaptation for automated essay scoring
         - Few-shot entity linking in knowledge graphs using limited resources
@@ -106,12 +106,43 @@
 #        - Description 1.
 #        - Description 2.
 
-- title: Other Interests
+
+
+
+- title: 🏆 Honors and Awards
+  type: time_table
+  contents:
+    - title:  Awarded Alberta Innovates Graduate Student Scholarship, AIGSS, (26,000 CAD) 
+      institution: <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/scholarships/ab-innovates/aigss-data-enabled-innovation.html"> Alberta Innovates</a>, Edmonton, Canada.
+      year: 2022
+
+
+    - title: Awarded full scholarship (54,000 CAD) for MSc. program
+      institution: <a href="https://www.ualberta.ca/graduate-studies/awards-and-funding/index.html"> University of Alberta</a>, Edmonton, Canada.
+      year: 2020
+
+
+    - title: Ranked 8th in <a href="https://en.wikipedia.org/wiki/Iranian_University_Entrance_Exam"> national university entrance exam</a> among Master applicants of Iran
+      institution: <a href="https://www.linkedin.com/company/national-organization-for-educational-testing-noet-/?originalSubdomain=ir">National Organization for Educational Testing</a>, Tehran, Iran.
+      year: 2019
+
+
+    - title: Received Innovative Research Scholarship
+      institution: <a href="https://en.nano.ir/">Iranian Nanotechnology Initiative Council</a>, Tehran, Iran.
+      year: 2018
+
+
+    - title: Awarded full scholarship for MSc. program 
+      institution: <a href="https://aut.ac.ir/en">Amirkabir University of Technology</a>, Tehran, Iran.
+      year: 2016
+
+
+
+- title: <html>&#127958</html>Other Interests
   type: nested_list
   contents:
     - title: Sports
       items:
-      # - 🏊 Member of University of Alberta Swim Club <a href="https://www.instagram.com/ualbertaswimclub/"><i class="fab fa-instagram"></i></a> (2016-2022)
       - 🚲 Mountain biking
       - 🏊 Swimming
       - 🎾 Badminton
