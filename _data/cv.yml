@@ -73,12 +73,12 @@
   contents:
     - title: Related Projects
       items:
-        - Time series forecasting models using deep multi-variate LSTM and ensemble models <a href="https://github.com/anaeim/deep-stock-price-prediction"> GitHub Code</a>
-        - LLM-based Disaster Tweet Classification <a href="https://github.com/anaeim/disaster-tweet-classification#llm-based-disaster-tweet-classification">GitHub Code</a>
+        - Time series forecasting models using deep multi-variate LSTM and ensemble models <a href="https://github.com/anaeim/deep-stock-price-prediction"> [GitHub Code]</a>
+        - LLM-based Disaster Tweet Classification <a href="https://github.com/anaeim/disaster-tweet-classification#llm-based-disaster-tweet-classification"> [GitHub Code]</a>
         - Implementing a risk management model using multi-modal data
         - Enhanced e-commerce product matching model using Pre-trained Language Models (PLM) and tabular data<i>:</i> <u>TAbular and Textual Entity Matching (TATEM)</u> and <u>TAble & Text Entity Matching as TOpology COonstruction (TATTOO)</u>
         - Introduced two product entity matching datasets using complementary product-specific tabular data <i>:</i> <u>Amazon*-Google, Walmart*-Amazon*</u>
-        - ATTARII web scraper, Amazon Textual and TAbulaR Information extractIon (ATTARII) to extract Tabular data for e-commerce products <a href="https://github.com/anaeim/ATTARII#amazon-textual-and-tabular-information-extraction-attarii">GitHub Code</a>
+        - ATTARII web scraper, Amazon Textual and TAbulaR Information extractIon (ATTARII) to extract Tabular data for e-commerce products <a href="https://github.com/anaeim/ATTARII#amazon-textual-and-tabular-information-extraction-attarii"> [GitHub Code]</a>
         - Fast and robust domain adaptation for automated essay scoring
         - Few-shot entity linking in knowledge graphs using limited resources
         - Automated essay scoring model based on cohesion, coherence and text diversity linguistic features
