@@ -9,13 +9,15 @@
 - title: 👨‍💼 Professional Experience
   type: time_table
   contents:
+    - title: Data Scientist Intern
+      institution: <a href="https://www.scotiabank.com/ca/en/about.html">AML/ATF department, ScotiaBank</a>, Edmonton, Canada.
+      year: 2021 - 2022
+
     - title: Research Assistant 
       institution: <a href="https://www.ualberta.ca/computing-science/index.html">University of Alberta</a>, Edmonton, Canada.
       year: 2022 - 2023
 
-    - title: Research Assistant 
-      institution: <a href="https://www.scotiabank.com/ca/en/about.html">AML/ATF department, ScotiaBank</a>, Edmonton, Canada.
-      year: 2021 - 2022
+
 #      description:
 #        - Explore information retrieval models suitable for NLP tasks.
     # - title: Teacher Assistant
@@ -35,7 +37,7 @@
   contents:
     - title: MSc.
       institution: <a href="https://www.ualberta.ca/computing-science/index.html"> University of Alberta</a>, Edmonton, Canada
-      year: 2020
+      # year: 2020
       description:
         - <u>Thesis:</u> Product entity matching by leveraging Pre-trained Langauge Models and  tabular data. 
         - <u>Supervisor:</u> <a href="https://www.instagram.com/ualbertaswimclub/">Prof. Davood Rafiei</a>.
@@ -43,7 +45,7 @@
 
     - title: BSc.
       institution: <a href="https://aut.ac.ir/en"> Amirkabir University of Technology (Polytechnique Tehran)</a>, Tehran, Iran
-      year: 2011
+      # year: 2011
       description:
         - <u>Thesis:</u> Microscope images processing to predict fracture strength of nanoclay/polyamide 12 nanocomposite using CNN. 
         - <u>Supervisor:</u> <a href="https://profile.ut.ac.ir/en/~f.hemmati" > Dr. Farkhondeh Hemmati</a>.
@@ -68,23 +70,36 @@
 
 
 
-- title: 👨‍💻 Related Projects
+- title: 👨‍💻 Projects
   type: nested_list
   contents:
-    - title: Related Projects
+    - title: Selected Projects
       items:
+        - Designed semantics Attribute Ranking Module (ARM) for tabular data by leveraging LLMs
+        - Implementing a risk management model using multi-modal data (transaction history, connections with other entities, news feeds on Twitter, and financial journals)
         - Time series forecasting models using deep multi-variate LSTM and ensemble models <a href="https://github.com/anaeim/deep-stock-price-prediction"> [GitHub Code]</a>
+        - E-commerce product matching model using Large Language Models and tabular data<b>:</b> (TATEM)
+        - Introduced two product entity matching datasets<b>:</b> <u>Amazon*-Google, Walmart*-Amazon*</u> <br>
+          The Tabular data was extracted from Amazon.com through a scraper tool that I developed<b>:</b> ATTARII <a href="https://github.com/anaeim/ATTARII">[GitHub Code]</a> (Amazon Textual and TAbulaR Information extractIon)
         - LLM-based Disaster Tweet Classification <a href="https://github.com/anaeim/disaster-tweet-classification#llm-based-disaster-tweet-classification"> [GitHub Code]</a>
-        - Implementing a risk management model using multi-modal data
-        - Enhanced e-commerce product matching model using Pre-trained Language Models (PLM) and tabular data<i>:</i> <u>TAbular and Textual Entity Matching (TATEM)</u> and <u>TAble & Text Entity Matching as TOpology COonstruction (TATTOO)</u>
-        - Introduced two product entity matching datasets using complementary product-specific tabular data <i>:</i> <u>Amazon*-Google, Walmart*-Amazon*</u>
-        - ATTARII web scraper, Amazon Textual and TAbulaR Information extractIon (ATTARII) to extract Tabular data for e-commerce products <a href="https://github.com/anaeim/ATTARII#amazon-textual-and-tabular-information-extraction-attarii"> [GitHub Code]</a>
         - Fast and robust domain adaptation for automated essay scoring
-        - Few-shot entity linking in knowledge graphs using limited resources
-        - Automated essay scoring model based on cohesion, coherence and text diversity linguistic features
         - Database integration between two large-scale databases at ScotiaBank
-        - Enhanced deep learning models for automated essay scoring
-        - Multi-class sentiment analysis using deep learning
+
+
+        # - Implementing a risk management model using multi-modal data
+        # - Enhanced e-commerce product matching model using Pre-trained Language Models (PLM) and tabular data<i>:</i> <u>TAbular and Textual Entity Matching (TATEM)</u> and <u>TAble & Text Entity Matching as TOpology COonstruction (TATTOO)</u>
+        # - Introduced two product entity matching datasets using complementary product-specific tabular data <i>:</i> <u>Amazon*-Google, Walmart*-Amazon*</u>
+        # - ATTARII web scraper, Amazon Textual and TAbulaR Information extractIon (ATTARII) to extract Tabular data for e-commerce products <a href="https://github.com/anaeim/ATTARII#amazon-textual-and-tabular-information-extraction-attarii"> [GitHub Code]</a>
+        # - Fast and robust domain adaptation for automated essay scoring
+        # - Few-shot entity linking in knowledge graphs using limited resources
+        # - Automated essay scoring model based on cohesion, coherence and text diversity linguistic features
+        # - Database integration between two large-scale databases at ScotiaBank
+        # - Enhanced deep learning models for automated essay scoring
+        # - Multi-class sentiment analysis using deep learning
+
+
+
+
     # - title: Reviewing for Workshops
     #   items:
     #     - Student Research Workshop (SRW) at ACL 2023 [<a href="https://acl2023-srw.github.io/">link</a>]
