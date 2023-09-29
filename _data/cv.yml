@@ -75,14 +75,14 @@
   contents:
     - title: Selected Projects
       items:
-        - Designed semantics Attribute Ranking Module (ARM) for tabular data by leveraging LLMs
-        - Implementing a risk management model using multi-modal data (transaction history, connections with other entities, news feeds on Twitter, and financial journals)
+        - Semantics Attribute Ranking Module (ARM) for tabular data by leveraging LLMs
+        - Risk management model using multi-modal data (transaction history, connections with other entities, news feeds on Twitter, and financial journals)
         - Time series forecasting models using deep multi-variate LSTM and ensemble models <a href="https://github.com/anaeim/deep-stock-price-prediction"> [GitHub Code]</a>
-        - E-commerce product matching model using Large Language Models and tabular data<b>:</b> (TATEM)
+        - LLM-based e-commerce product matching model using tabular data<b>:</b> (TATEM)
         - Introduced two product entity matching datasets<b>:</b> <u>Amazon*-Google, Walmart*-Amazon*</u> <br>
           The Tabular data was extracted from Amazon.com through a scraper tool that I developed<b>:</b> ATTARII <a href="https://github.com/anaeim/ATTARII">[GitHub Code]</a> (Amazon Textual and TAbulaR Information extractIon)
         - LLM-based Disaster Tweet Classification <a href="https://github.com/anaeim/disaster-tweet-classification#llm-based-disaster-tweet-classification"> [GitHub Code]</a>
-        - Fast and robust domain adaptation for automated essay scoring
+        - Fast and robust domain adaptation for automated essay scoring deep learning models
         - Database integration between two large-scale databases at ScotiaBank
 
 
