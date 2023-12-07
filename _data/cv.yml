@@ -9,11 +9,11 @@
 - title: 👨‍💼 Professional Experience
   type: time_table
   contents:
-    - title: Data Scientist Intern
+    - title: Data Scientist
       institution: <a href="https://www.scotiabank.com/ca/en/about.html">AML/ATF department, ScotiaBank</a>, Edmonton, Canada.
-      year: 2021 - 2022
+      year: 2020 - 2022
 
-    - title: Research Assistant 
+    - title: Data Science Researcher 
       institution: <a href="https://www.ualberta.ca/computing-science/index.html">University of Alberta</a>, Edmonton, Canada.
       year: 2022 - 2023
 
@@ -26,7 +26,7 @@
 #      description:
 #        - Work on sample efficiency in NLP and multilignual retrieval.
 
-    - title: AI Scientist
+    - title: Machine Learning Developer
       institution: <a href="https://www.linkedin.com/company/faroob-zaman-inc./">Faroob Zaman Inc.</a>, Mashhad, Iran.
       year: 2016 - 2020
     #  description:
